@@ -98,7 +98,7 @@ About me:
 ## 📊 Github stats
 <br/>
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DnGsOuNaK&langs_count=8&layout=compact&theme=gotham&hide_border=true&&hide=Jupyter%20Notebook" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmGsOuNak&langs_count=8&layout=compact&theme=gotham&hide_border=true&&hide=Jupyter%20Notebook" height="192px"/></a>
 </p>
 
 <br/>
