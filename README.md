@@ -23,7 +23,7 @@ About me:
 ### Talk with me, I am kinda awesome:
 <p align="left">
 <a href="https://twitter.com/jana_moudipa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jana_moudipa" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/moudipa-jana-a0b89b1ba" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="moudipa-jana-a0b89b1ba" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sounak-mandal-700382205" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sounak-mandal-700382205" height="30" width="40" /></a>
 <a href="https://www.instagram.com/thats_sounak/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sounak_mandal" height="30" width="40" /></a>
 
 </p>
@@ -97,8 +97,8 @@ About me:
 
 ## 📊 Github stats
 <br/>
-<p align="left"
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmGsOuNaK&langs_count=8&layout=compact&theme=gotham&hide_border=true&&hide=Jupyter%20Notebook" height="192px"/></a>
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DnGsOuNaK&langs_count=8&layout=compact&theme=gotham&hide_border=true&&hide=Jupyter%20Notebook" height="192px"/></a>
 </p>
 
 <br/>
