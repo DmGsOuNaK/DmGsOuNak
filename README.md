@@ -94,15 +94,30 @@ About me:
 
 <br />
 
+📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
+```text
+C++          10 hrs 30 mins  ██████████████████▓░░░░░░   74.77 % 
+JavaScript   3 hrs 1 min     █████▒░░░░░░░░░░░░░░░░░░░   21.52 % 
+HTML         21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+CSS          15 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   10.79 % 
 
-## 📊 Github stats
-<br/>
-<p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmGsOuNak&langs_count=8&layout=compact&theme=gotham&hide_border=true&&hide=Jupyter%20Notebook" height="192px"/></a>
-</p>
+```
+<!--END_SECTION:waka-->
 
-<br/>
-<br/>
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Sounak Mandal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DmGsOuNaK&bg_color=0c1014&color=2aa889&line=599cab&point=99d1ce&area_color=2aa889&area=true&hide_border=true"/></a>
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Sounak's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DmGsOuNaK&show_icons=true&hide_border=true" />
+
+</details>
+
+<details>
+  <summary>:zap: Most Used Languages</summary>
+
+<img align="left" alt="Sounak's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmGsOunaK" />
+
+</details>
+
 
