@@ -33,7 +33,7 @@ About me:
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sounak Mandal's streak" src="https://github-readme-streak-stats.herokuapp.com?user=Moudipa01&theme=gotham&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sounak Mandal's streak" src="https://github-readme-streak-stats.herokuapp.com?user=DmGsOuNaK&theme=gotham&hide_border=true"/>
   </a>
 </p>
 
