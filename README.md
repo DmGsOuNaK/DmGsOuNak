@@ -116,7 +116,7 @@ CSS          15 mins         ███▒░░░░░░░░░░░░░
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="Sounak's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmGsOunaK" />
+<img align="left" alt="Sounak's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmGsOuNaK" />
 
 </details>
 
