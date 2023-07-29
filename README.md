@@ -28,7 +28,7 @@ About me:
 
 </p>
 
-## See All of my projects here : <a href="https://dmgsounak.github.io/sounak-mandal-portfolio/">
+## See All of my projects here : <a href="https://dmgsounak.github.io/sounak-mandal-portfolio/">https://dmgsounak.github.io/sounak-mandal-portfolio/</a>
 
 ## 🔥 Streak stats
 
